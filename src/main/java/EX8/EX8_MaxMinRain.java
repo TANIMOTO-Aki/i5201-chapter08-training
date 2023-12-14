@@ -2,7 +2,7 @@ public class EX8_MaxMinRain {
     public static void main(String[] args) {
         int[] months = {1,2,3,4,5,6,7,8,9,10,11,12};
         int[] days = new int[12];
-        EX8_Search sh = new EX8_Search();
+        EX8_Search2 sh = new EX8_Search2();
         
         /* 日数を入力 */
         System.out.println("雨天の日数を入力？");
